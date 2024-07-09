@@ -12,4 +12,4 @@ public class p10 {
           System.out.println();
         }
 }
-}
+} 2
