@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class j7{
+public class p6{
     
     public static void main(String[] args) {
      Scanner reader = new Scanner(System.in);
@@ -9,7 +9,7 @@ public class j7{
      for(int i=1; i<=num; i++){
         for(int j=1; j<=num; j++){
             System.out.print(k+" ");
-            k+=2;
+            k++;
         }
         System.out.println();
      }

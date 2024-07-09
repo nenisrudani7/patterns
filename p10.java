@@ -1,5 +1,5 @@
 import java.util.*;
-public class j10 {
+public class p10 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         System.out.println("enter number:--");
